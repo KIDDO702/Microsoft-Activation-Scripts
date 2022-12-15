@@ -1,0 +1,12 @@
+01- Choose Microsoft office 2016 or 2019 and language click install
+02- When installation is done, go to utilities tab and -click Office RETAIL >= VL button
+
+-----------------------------
+
+	You can also use activation scripts to acivated MS Office
+		for example run: MAS_1.3_AIO_CRC32_6F6382D8.cmd
+		from Microsoft Activation Scripts v1.3\All-In-One-Version
+		and choose your required options
+
+
+		FileCR.com
